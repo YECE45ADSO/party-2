@@ -1,0 +1,40 @@
+.titulo1{
+    background-color: blue;
+    font-size:2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.titulo2{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+.titulo3{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 30px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-image: url(https://media.tenor.com/a-DsT_e4GSQAAAAC/hi-hello.gif);
+    background-repeat;
+    background-position:right;
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
+.table td:hover{
+    background-color:brown;
+}
